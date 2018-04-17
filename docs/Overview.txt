@@ -1,0 +1,28 @@
+Travel planner application
+
+Motivation
+	Every trip should be organized. Stuff to pack, people to go with..
+	It costs time and effort to get yourself and others ready. 
+	"Trip planner" allows preparing and organizing trips in a simple,
+	fast and confident manner.
+
+Main functionality overview
+	Create stuff lists
+		- save
+		- export/import (messengers/emails)
+	Create trips
+		- add travel mates
+		- create required stuff list
+		- suggest default stuff lists
+		- share/require stuff for the trip
+	
+Ideas
+	- merge stuff lists
+	- suggest default stuff lists
+	- stuff weight
+	- places suggestions to buy the new stuff
+	- voice recognition (for items stuff list manipulation)
+	- trip state (see yours and trip mates readiness status)
+	- notifications (two days before trip -> do not forget to buy something)
+	- rating system
+	- make stuff list entries expandable when a lot of items with the same first letter

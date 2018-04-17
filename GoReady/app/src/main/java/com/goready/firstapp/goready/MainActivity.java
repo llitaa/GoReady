@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     protected void testChange() {
-        System.out.print("Test change");
+        System.out.print("Test small change");
     }
 }
